@@ -36,7 +36,7 @@ Scikit-learn
 
  ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/predicting-student-scores.git
+   git clone https://github.com/Aishwaryasrivastav31/Predicting_scrore_using_linear_regression.git
    cd predicting-student-scores
 
 2. Install the required packages:
